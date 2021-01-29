@@ -1,0 +1,555 @@
+#EXTINF:-1 tvg-logo="" group-title="ThaiDigitalTV",Thaibps(HD)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ThaiDigitalTV",NBT(SD)
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",CH3(HD)
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeM2JlMmRhNzEwYzA5NTQ3Nzg5NQMmZkODQ5MWFlYmYzOWY0
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",CH5(HD)
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",CH7(HD)
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",CH8(HD)
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",MCOT(HD)
+https://tc-live1.sanook.com/live/22302_ch9.m3u8?bizid=22302&txSecret=74bb810aba152ef32193302eae8df2dd&txTime=601aba6f
+ 
+#EXTINF:-1 tvg-logo="" group-title="ThaiDigitalTV",WorkPoint(HD)
+http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",MONO29(HD)
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_360P/mono29hls_360TH.stream/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",ONE(HD)
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",ThaiRath(HD)
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",AMARIN(HD)
+http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",PPTV(HD)
+http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",TNN(HD)
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",NEW
+https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",NATION TV
+https://p1.cdn.vet/live/ch37/i/ch37i.m3u8?sid=bjeZjkyMGY3NWNjYWYxOWNhMTc4YwNjI4ODEyNDQyM2IyOTMy
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",TRUE4U
+http://183.182.100.184/live/true4u/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ThaiDigitalTV",GMM
+http://119.59.125.74/stream/totnew.php?channel_id=ab0b43ef8363438098a94101e93ca138
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE PREMIER HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE PREMIER HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE PREMIER HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE PREMIER HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE PREMIER HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORTHD
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORTHD2
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORTHD3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORTHD4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORT2(SD)
+http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORT5(SD)
+http://160.119.77.116:8081/iptv/sd-tsport5.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORT6(SD)
+http://160.119.77.116:8081/iptv/sd-tsport6.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",TRUE SPORT7(SD)
+http://160.119.77.116:8081/iptv/sd-tsport7.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BT-SPORT HD(UK)
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BT-SPORT HD2(UK)
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BT-SPORT HD3(UK)
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BEIN-SPORT HD1(Arab)
+http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BEIN-SPORT HD2(Arab)
+http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BEIN-SPORT EXTRA
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",FOX-SPORT HD
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",FOX-SPORT2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",FOX-SPORT3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",FOX-SPORT HD(AUSTRALIA)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(PREMIRE LEAGUE)
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(FOOTBALL)
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(NESN)
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(MAIN EVENT)
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(NFL)
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(F1)
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(ARENA)
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",SKY-SPORT(GOFT)
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",MUTV
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",LFCTV
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",ABU DHABI SPORT1(HD)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",ABU DHABI SPORT2(HD)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",ABU DHABI SPORT3(HD)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",ADVENTURE-SPORT
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BEK-SPORT-EAST(ESPN)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",BEK-SPORT-WEST(ESPN2)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",DUBAI-RACING(HD)
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",DUBAI-RACING2(HD)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",DUBAI-RACING3(HD)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",DUBAI-SPORT1(HD)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",DUBAI-SPORT2(HD)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",DUBAI-SPORT3(HD)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",EDGE-SPORT(HD)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",EDGE-SPORT(SD+)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",ESPN2
+https://gma2.blab.email/espn2.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",ESPN (EU)
+https://gma2.blab.email/espnu.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",FIGHT-SPORT
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",OMAN-SPORT(HD)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",REDBULL(HD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",EURO-HD1
+https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="SPORT ",EURO-HD2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",MVM-MYANMAR
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",MV-LAO
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",TRUE-THAIFILM
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",TVB-HD
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",MTV(CHAINA)
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",NHK.BSP
+http://203.162.235.41:16910
+ 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",NIPPON TV(JR)
+http://203.162.235.41:16905
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",SABAIDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MUSIC FOR YOU
+http://203.154.243.89:1213
+ 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",HD MUSIC(RU)
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV(CHAINA)
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",CH8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",M CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",TRUE-THAIFILM
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",TVB-HD
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",PULSE
+http://203.154.177.124:8899/live/ch18/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",FOX THAI(SD)
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",FOX ACTION(SUBTHAI)
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",AXN HD(SUBTHAI)
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",SONY MUSIC(SUBTHAI)
+http://51.52.156.22:8888/http/009
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",WARNER.TV(SUBTHAI)
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="MOVIE",FILM-RISE.SCI-FI
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",TOONEE(THAI)
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",BOOMERANG(THAI)
+https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",CARTOON CLUB-HD(THAI)
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",ANIMAX(SUBTHAI)
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",TRT-COCUK(INTER)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",CN HD(INDONESIA)
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON",CN HD(RUSSIA)
+http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CNN(INDONESIA)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",ALJAZEERA(INTER)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CNA(INTER)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",RT(RU)
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CGTN(INTER)
+https://live.cgtn.com/1000/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",DW(INTER)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",ARIRANG(EN)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",RT-NEWS(INTER)
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",METRO-TV(INDONESIA)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BCC NEWS WORLD(EN)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",SKYNEWS2(INTER)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",FRANK(EN)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",FRANK(FR)
+http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",GROBAL NEWS CANADA(EN)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",ABC NEWS(EN)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBS NEWS(EN)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",NEWS1(THAI)
+http://news1.live14.com/stream/news1_hi.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BLUESKY(THAI)
+https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BTV(CAMBODIA)
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BOOMBERG ASIA(EN)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",AUSTRALIA(EN)
+http://203.154.177.124:8899/live/ch8/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",NHK WOLRD(EN)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:hlscat.com
+ 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",NHK WOLRD PREMIEM(JAPAN)
+http://203.162.235.41:16901
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",THAIBPS-HD(THAI)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",NBT-SD(THAI)
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ASEAN TV",CH3-HD(THAI)
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeM2JlMmRhNzEwYzA5NTQ3Nzg5NQMmZkODQ5MWFlYmYzOWY0
+ 
+#EXTINF:-1 tvg-logo=""group-title="ASEAN TV",CH5-HD(THAI)
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ASEAN TV",CH7-HD(THAI)
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=""group-title="ASEAN TV",MCOT-HD(THAI)
+https://tc-live1.sanook.com/live/22302_ch9.m3u8?bizid=22302&txSecret=74bb810aba152ef32193302eae8df2dd&txTime=601aba6f
+ 
+#EXTINF:-1 tvg-logo=""group-title="ASEAN TV",TPTV(THAI)
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",BTV(CAMBODIA)
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",BAYON-TV(CAMBODIA)
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",FRESH NEWS-TV(CAMBODIA)
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",PNN-TV(CAMBODIA)
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",FRESH NEWS-TV(CAMBODIA)
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TV9(CAMBODIA)
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TVK(CAMBODIA)
+http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TAO CHAMPA-TV(LAO)
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TAO CHAMPA-TV2(LAO)
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TAO CHAMPA-TV3(LAO)
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",MV-LAO(LAO)
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",BERITA-TV(MALAYSIA)
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",RMOKEY-TV(MALAYSIA)
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",RTM-TV1(MALAYSIA)
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",RTM-TV2(MALAYSIA)
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TV-IKIM(MALAYSIA)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",MVM(MYANMAR)
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",CHANNEL-K(MYANMAR)
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",BRAM-TV.ISLAND(PLILIPPINES)
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",BEAM-TV.EDPDP(PLILIPPINES)
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",LIFE TV ASIA(PLILIPPINES)
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",SMNI(PLILIPPINES)
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TV5(PLILIPPINES)
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",CNA-HD(SINGAPORE)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",ANTV-HD(VIETNAM)
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",THBT(VIETNAM)
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",CTV(VIETNAM)
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",DANANG.TV1HD(VIETNAM)
+http://vietcago.net/vstv/danangtv1.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",DANANG.TV2HD(VIETNAM)
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",HBTV-HD(VIETNAM)
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",PTTH(VIETNAM)
+http://vietcago.net/vstv/kiengiangtv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",PTTH1(VIETNAM)
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",LA34(VIETNAM)
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",PTP(VIETNAM)
+http://vietcago.net/vstv/phuyentv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",QRT-HD(VIETNAM)
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",BERITA-SATU-HD(INDONESIA)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",JAKARTAR-GLOBALNEWS(INDONESIA)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",CNN(INDONESIA)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",KARAOKE(INDONESIA)
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",METRO-TV(INDONESIA)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",REFORMED21(INDONESIA)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TVRI(INDONESIA)
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",IKIM(INDONESIA)
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN TV",TEGAR(INDONESIA)
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
